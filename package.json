@@ -1,0 +1,22 @@
+{
+  "name": "protractor-course",
+  "version": "1.0.0",
+  "description": "This project will contain code that implement tasks of Cogniance QA course",
+  "main": "n",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykhalyshyn/Protractor_smykhalyshyn.git"
+  },
+  "author": "Serhii Mykhalyshyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykhalyshyn/Protractor_smykhalyshyn/issues"
+  },
+  "homepage": "https://github.com/mykhalyshyn/Protractor_smykhalyshyn#readme",
+  "devDependencies": {
+    "popsicle": "^8.2.0"
+  }
+}
