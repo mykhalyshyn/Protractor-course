@@ -8,6 +8,3 @@ gen
 
 # Node modules
 node_modules/
-
-# Private .gitconfig
-.gitconfig

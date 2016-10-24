@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/mykhalyshyn/Protractor_smykhalyshyn#readme",
   "devDependencies": {
-    "popsicle": "^8.2.0"
+    "math": "0.0.3",
+    "popsicle": "^8.2.0",
+    "prompt": "^1.0.0",
+    "xmlhttprequest": "^1.8.0"
   }
 }
